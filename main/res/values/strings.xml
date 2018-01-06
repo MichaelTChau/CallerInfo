@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">callDetails</string>
+    <string name="tab1">Call</string>
+    <string name="tab2">Call Logs</string>
+    <string name="tab3">Contacts</string>
+    <string name="move">Click Here</string>
+</resources>
